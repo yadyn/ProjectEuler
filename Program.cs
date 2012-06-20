@@ -11,7 +11,7 @@ namespace ProjectEuler
 	{
 		static void Main(string[] args)
 		{
-			IPESolver solver = new Problem1();
+			IPESolver solver = new Problem5();
 
 			solver.Solve();
 		}

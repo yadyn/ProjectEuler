@@ -46,6 +46,10 @@
     <Compile Include="IPESolution.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solutions\Problem5.cs" />
+    <Compile Include="Solutions\Problem4.cs" />
+    <Compile Include="Solutions\Problem3.cs" />
+    <Compile Include="Solutions\Problem2.cs" />
     <Compile Include="Solutions\Problem1.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
